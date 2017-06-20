@@ -1,3 +1,4 @@
+
 .header {
     text-align: center;
     width: 100%;
@@ -48,13 +49,14 @@ ul {
     height: 250px;
     list-style: none;
 
+
 }
 
 .all {
     width: 700px;
     height: 600px;
     overflow: auto;
-    position: relative;
+    display:table-cell;
 }
 
 .clear {
@@ -67,3 +69,4 @@ footer {
     background-color: black;
     padding: 15px 0 15px 0;
 }
+
